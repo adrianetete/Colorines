@@ -2,9 +2,23 @@ Colorines
 =========
 Juego realizado en Java.
 
-Tablero formado por seis columnas y diez filas. Hay seis colores, cada uno representado por un color.
+Tablero formado por seis columnas y diez filas. Hay seis colores, cada uno representado por un numero entero.
 El objetivo es intentar hacer el máximo número de movimientos posibles mezclando los colores y eliminando filas.
 
-Colores:  1 = Rojo; 2 = Amarillo; 3 = Naranja; 4 = Azul; 5 = Morado; 6 = Verde
+Colores:
+
+- Rojo = 1
+- Amarillo = 2
+- Naranja = 3
+- Azul = 4
+- Morado = 5
+- Verde = 6
           
-Mezclas:  Rojo + Amarillo = Naranja; Rojo + Azul = Morado; Amarillo + Azul = Verde; Naranja + Morado = Rojo; Naranja + Verde = Amarillo; Morado + Verde = Azul
+Mezclas:
+
+- Rojo + Amarillo = Naranja
+- Rojo + Azul = Morado
+- Amarillo + Azul = Verde
+- Naranja + Morado = Rojo
+- Naranja + Verde = Amarillo
+- Morado + Verde = Azul
